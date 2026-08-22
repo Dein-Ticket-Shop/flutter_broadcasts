@@ -1,3 +1,7 @@
+## NEXT
+
+* Add compatibility with AGP 9 built-in Kotlin.
+
 ## 0.4.0
 
 * Fix duplicated listeners by removing .asBroadcastStream
